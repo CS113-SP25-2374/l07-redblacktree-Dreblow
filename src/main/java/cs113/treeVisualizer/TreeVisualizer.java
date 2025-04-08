@@ -97,7 +97,7 @@ public class TreeVisualizer extends Application {
     }
 
     private void test2() {
-        int[] tests = {17, 9, 19, 75, 25};
+        int[] tests = {17, 9, 19, 75, 24};
         for (int test : tests) {
             rbTree.insert(test);
         }
